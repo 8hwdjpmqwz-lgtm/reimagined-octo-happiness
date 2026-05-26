@@ -1,0 +1,379 @@
+#NAME tvzeu
+#SERVICE 1:64:101:0:0:0:0:0:0:0:
+#DESCRIPTION ++TNT++
+#SERVICE 4097:0:1:1780:0:0:0:0:0:0:https%3a//tvradiozap.eu/890:TF1
+#SERVICE 4097:0:1:1774:0:0:0:0:0:0:https%3a//tvradiozap.eu/887:France 2
+#SERVICE 4097:0:1:1784:0:0:0:0:0:0:https%3a//tvradiozap.eu/892:France 3
+#SERVICE 4097:0:1:1786:0:0:0:0:0:0:https%3a//tvradiozap.eu/893:France 4
+#SERVICE 4097:0:1:1782:0:0:0:0:0:0:https%3a//tvradiozap.eu/891:France 5
+#SERVICE 4097:0:1:1280:0:0:0:0:0:0:https%3a//tvradiozap.eu/640:Arte
+#SERVICE 4097:0:1:1290:0:0:0:0:0:0:https%3a//tvradiozap.eu/645:LCP Public Sénat
+#SERVICE 4097:0:1:1790:0:0:0:0:0:0:https%3a//tvradiozap.eu/895:TMC
+#SERVICE 4097:0:1:1792:0:0:0:0:0:0:https%3a//tvradiozap.eu/896:TFX
+#SERVICE 4097:0:1:1454:0:0:0:0:0:0:https%3a//tvradiozap.eu/727:BFM TV
+#SERVICE 4097:0:1:1284:0:0:0:0:0:0:https%3a//tvradiozap.eu/642:CNews
+#SERVICE 4097:0:1:1798:0:0:0:0:0:0:https%3a//tvradiozap.eu/899:LCI
+#SERVICE 4097:0:1:1668:0:0:0:0:0:0:https%3a//tvradiozap.eu/834:France Info
+#SERVICE 4097:0:1:1270:0:0:0:0:0:0:https%3a//tvradiozap.eu/635:CStar
+#SERVICE 4097:0:1:1268:0:0:0:0:0:0:https%3a//tvradiozap.eu/634:T18
+#SERVICE 4097:0:1:1298:0:0:0:0:0:0:https%3a//tvradiozap.eu/649:TF1 Séries Films
+#SERVICE 4097:0:1:1296:0:0:0:0:0:0:https%3a//tvradiozap.eu/648:L'Équipe
+#SERVICE 4097:0:1:1288:0:0:0:0:0:0:https%3a//tvradiozap.eu/644:RMC Story
+#SERVICE 4097:0:1:1796:0:0:0:0:0:0:https%3a//tvradiozap.eu/898:RMC Découverte
+#SERVICE 4097:0:1:1292:0:0:0:0:0:0:https%3a//tvradiozap.eu/646:RMC Life
+#SERVICE 4097:0:1:1312:0:0:0:0:0:0:https%3a//tvradiozap.eu/656:Le Figaro TV
+#SERVICE 4097:0:1:2534:0:0:0:0:0:0:https%3a//tvradiozap.eu/1267:LA UNE (BE)
+#SERVICE 4097:0:1:1322:0:0:0:0:0:0:https%3a//tvradiozap.eu/661:Carac1 (CH)
+#SERVICE 4097:0:1:1332:0:0:0:0:0:0:https%3a//tvradiozap.eu/666:Carac2 (CH)
+#SERVICE 4097:0:1:1334:0:0:0:0:0:0:https%3a//tvradiozap.eu/667:Carac3 (CH)
+#SERVICE 4097:0:1:2322:0:0:0:0:0:0:https%3a//tvradiozap.eu/1161:Carac4 (CH)
+#SERVICE 4097:0:1:1338:0:0:0:0:0:0:https%3a//tvradiozap.eu/669:Leman Bleu  (CH)
+#SERVICE 4097:0:1:1772:0:0:0:0:0:0:https%3a//tvradiozap.eu/886:TV Monaco (MC)
+#SERVICE 1:64:102:0:0:0:0:0:0:0:
+#DESCRIPTION ++Archives++
+#SERVICE 4097:0:1:1870:0:0:0:0:0:0:https%3a//tvradiozap.eu/935:INA 70
+#SERVICE 4097:0:1:1446:0:0:0:0:0:0:https%3a//tvradiozap.eu/723:INA Ardivision
+#SERVICE 4097:0:1:1432:0:0:0:0:0:0:https%3a//tvradiozap.eu/716:Show! Variété
+#SERVICE 1:64:103:0:0:0:0:0:0:0:
+#DESCRIPTION ++Art de vivre++
+#SERVICE 4097:0:1:2192:0:0:0:0:0:0:https%3a//tvradiozap.eu/1096:Drive TV
+#SERVICE 4097:0:1:1300:0:0:0:0:0:0:https%3a//tvradiozap.eu/650:LMF5 La Maison France 5
+#SERVICE 4097:0:1:1058:0:0:0:0:0:0:https%3a//tvradiozap.eu/529:Maison et Travaux
+#SERVICE 4097:0:1:2724:0:0:0:0:0:0:https%3a//tvradiozap.eu/1362:Mieux
+#SERVICE 4097:0:1:1960:0:0:0:0:0:0:https%3a//tvradiozap.eu/980:Motorvision
+#SERVICE 4097:0:1:2440:0:0:0:0:0:0:https%3a//tvradiozap.eu/1220:Rustica
+#SERVICE 4097:0:1:1944:0:0:0:0:0:0:https%3a//tvradiozap.eu/972:Système D
+#SERVICE 4097:0:1:2188:0:0:0:0:0:0:https%3a//tvradiozap.eu/1094:TV5Monde+ Chefs (CH)
+#SERVICE 1:64:104:0:0:0:0:0:0:0:
+#DESCRIPTION ++Cinéma++
+#SERVICE 4097:0:1:1434:0:0:0:0:0:0:https%3a//tvradiozap.eu/717:100% Cinéma
+#SERVICE 4097:0:1:2526:0:0:0:0:0:0:https%3a//tvradiozap.eu/1263:Action Totale
+#SERVICE 4097:0:1:1974:0:0:0:0:0:0:https%3a//tvradiozap.eu/987:AlloCiné
+#SERVICE 4097:0:1:198:0:0:0:0:0:0:https%3a//tvradiozap.eu/99:Box Office Action
+#SERVICE 4097:0:1:2448:0:0:0:0:0:0:https%3a//tvradiozap.eu/1224:Box Office Drama
+#SERVICE 4097:0:1:194:0:0:0:0:0:0:https%3a//tvradiozap.eu/97:Box Office Thrillers
+#SERVICE 4097:0:1:1716:0:0:0:0:0:0:https%3a//tvradiozap.eu/858:BrefCinéma
+#SERVICE 4097:0:1:1498:0:0:0:0:0:0:https%3a//tvradiozap.eu/749:Ciné Catastrophe
+#SERVICE 4097:0:1:1860:0:0:0:0:0:0:https%3a//tvradiozap.eu/930:Ciné Nanar
+#SERVICE 4097:0:1:1662:0:0:0:0:0:0:https%3a//tvradiozap.eu/831:Ciné Rétro
+#SERVICE 4097:0:1:1564:0:0:0:0:0:0:https%3a//tvradiozap.eu/782:Ciné Sci-Fi
+#SERVICE 4097:0:1:1722:0:0:0:0:0:0:https%3a//tvradiozap.eu/861:Ciné Western
+#SERVICE 4097:0:1:1720:0:0:0:0:0:0:https%3a//tvradiozap.eu/860:Emotion'L
+#SERVICE 4097:0:1:2478:0:0:0:0:0:0:https%3a//tvradiozap.eu/1239:FilmRise
+#SERVICE 4097:0:1:2438:0:0:0:0:0:0:https%3a//tvradiozap.eu/1219:Grjngo
+#SERVICE 4097:0:1:2464:0:0:0:0:0:0:https%3a//tvradiozap.eu/1232:LG 1
+#SERVICE 4097:0:1:2450:0:0:0:0:0:0:https%3a//tvradiozap.eu/1225:LG 1:Film
+#SERVICE 4097:0:1:2466:0:0:0:0:0:0:https%3a//tvradiozap.eu/1233:LG 1+1
+#SERVICE 4097:0:1:1714:0:0:0:0:0:0:https%3a//tvradiozap.eu/857:MyTime Movie Network
+#SERVICE 4097:0:1:2280:0:0:0:0:0:0:https%3a//tvradiozap.eu/1140:Noovo Cinéma  (CA)
+#SERVICE 4097:0:1:1562:0:0:0:0:0:0:https%3a//tvradiozap.eu/781:Plu.TV French Collection
+#SERVICE 4097:0:1:1426:0:0:0:0:0:0:https%3a//tvradiozap.eu/713:Rakuten TV Action
+#SERVICE 4097:0:1:1428:0:0:0:0:0:0:https%3a//tvradiozap.eu/714:Rakuten TV Comédies
+#SERVICE 4097:0:1:1436:0:0:0:0:0:0:https%3a//tvradiozap.eu/718:Rakuten TV Drames
+#SERVICE 4097:0:1:1690:0:0:0:0:0:0:https%3a//tvradiozap.eu/845:Rakuten TV Romance
+#SERVICE 4097:0:1:1442:0:0:0:0:0:0:https%3a//tvradiozap.eu/721:Rakuten TV Thrillers
+#SERVICE 4097:0:1:1444:0:0:0:0:0:0:https%3a//tvradiozap.eu/722:Rakuten TV Top Films
+#SERVICE 4097:0:1:2454:0:0:0:0:0:0:https%3a//tvradiozap.eu/1227:Rakuten Viki
+#SERVICE 4097:0:1:2670:0:0:0:0:0:0:https%3a//tvradiozap.eu/1335:Sci-Fi
+#SERVICE 4097:0:1:1682:0:0:0:0:0:0:https%3a//tvradiozap.eu/841:ScreamIN
+#SERVICE 4097:0:1:2342:0:0:0:0:0:0:https%3a//tvradiozap.eu/1171:Shark TV
+#SERVICE 4097:0:1:2460:0:0:0:0:0:0:https%3a//tvradiozap.eu/1230:Sony One Hits Action
+#SERVICE 4097:0:1:2462:0:0:0:0:0:0:https%3a//tvradiozap.eu/1231:Sony One Hits Comédie
+#SERVICE 4097:0:1:2024:0:0:0:0:0:0:https%3a//tvradiozap.eu/1012:Trailers
+#SERVICE 4097:0:1:1630:0:0:0:0:0:0:https%3a//tvradiozap.eu/815:Wild Side
+#SERVICE 1:64:105:0:0:0:0:0:0:0:
+#DESCRIPTION ++Culture++
+#SERVICE 4097:0:1:1576:0:0:0:0:0:0:https%3a//tvradiozap.eu/788:Plu.TV Histoire
+#SERVICE 4097:0:1:1320:0:0:0:0:0:0:https%3a//tvradiozap.eu/660:Savoir Media  (CA)
+#SERVICE 4097:0:1:298:0:0:0:0:0:0:https%3a//tvradiozap.eu/149:TCM-TV   (CA)
+#SERVICE 4097:0:1:2766:0:0:0:0:0:0:https%3a//tvradiozap.eu/1383:TVD (CH)
+#SERVICE 1:64:106:0:0:0:0:0:0:0:
+#DESCRIPTION ++Divertissement++
+#SERVICE 4097:0:1:2818:0:0:0:0:0:0:https%3a//tvradiozap.eu/1409:100% Comedy
+#SERVICE 4097:0:1:1994:0:0:0:0:0:0:https%3a//tvradiozap.eu/997:Carac5 (CH)
+#SERVICE 4097:0:1:2772:0:0:0:0:0:0:https%3a//tvradiozap.eu/1386:Cirque du Soleil
+#SERVICE 4097:0:1:1326:0:0:0:0:0:0:https%3a//tvradiozap.eu/663:GONG  (KO)
+#SERVICE 4097:0:1:1886:0:0:0:0:0:0:https%3a//tvradiozap.eu/943:MDL
+#SERVICE 4097:0:1:2358:0:0:0:0:0:0:https%3a//tvradiozap.eu/1179:MHZ  (CA)
+#SERVICE 4097:0:1:2380:0:0:0:0:0:0:https%3a//tvradiozap.eu/1190:Mr. Bean
+#SERVICE 4097:0:1:2282:0:0:0:0:0:0:https%3a//tvradiozap.eu/1141:Noovo Comédies  (CA)
+#SERVICE 4097:0:1:2284:0:0:0:0:0:0:https%3a//tvradiozap.eu/1142:Noovo Téléralités  (CA)
+#SERVICE 4097:0:1:2202:0:0:0:0:0:0:https%3a//tvradiozap.eu/1101:PopCorn
+#SERVICE 4097:0:1:2028:0:0:0:0:0:0:https%3a//tvradiozap.eu/1014:RMC Mystère
+#SERVICE 4097:0:1:2166:0:0:0:0:0:0:https%3a//tvradiozap.eu/1083:Tahiti Web Radio TV
+#SERVICE 1:64:107:0:0:0:0:0:0:0:
+#DESCRIPTION ++Documentaires++
+#SERVICE 4097:0:1:1448:0:0:0:0:0:0:https%3a//tvradiozap.eu/724:BFM Grands Reportages
+#SERVICE 4097:0:1:2310:0:0:0:0:0:0:https%3a//tvradiozap.eu/1155:DocStory
+#SERVICE 4097:0:1:1948:0:0:0:0:0:0:https%3a//tvradiozap.eu/974:France TV docs
+#SERVICE 4097:0:1:884:0:0:0:0:0:0:https%3a//tvradiozap.eu/442:Les secrets de nos régions
+#SERVICE 4097:0:1:2034:0:0:0:0:0:0:https%3a//tvradiozap.eu/1017:RMC Mecanic
+#SERVICE 4097:0:1:2032:0:0:0:0:0:0:https%3a//tvradiozap.eu/1016:RMC Wow
+#SERVICE 1:64:108:0:0:0:0:0:0:0:
+#DESCRIPTION ++Economie++
+#SERVICE 4097:0:1:1746:0:0:0:0:0:0:https%3a//tvradiozap.eu/873:B SMART
+#SERVICE 4097:0:1:1748:0:0:0:0:0:0:https%3a//tvradiozap.eu/874:BFM Business
+#SERVICE 4097:0:1:2542:0:0:0:0:0:0:https%3a//tvradiozap.eu/1271:Trends Z (BE)
+#SERVICE 1:64:109:0:0:0:0:0:0:0:
+#DESCRIPTION ++Evénementiel++
+#SERVICE 4097:0:1:2922:0:0:0:0:0:0:https%3a//tvradiozap.eu/1461:Roland-Garros 1 (France TV)
+#SERVICE 4097:0:1:2948:0:0:0:0:0:0:https%3a//tvradiozap.eu/1474:Roland-Garros 2 (France TV)
+#SERVICE 4097:0:1:2998:0:0:0:0:0:0:https%3a//tvradiozap.eu/1499:Roland-Garros 3 (France TV)
+#SERVICE 1:64:110:0:0:0:0:0:0:0:
+#DESCRIPTION ++Généraliste++
+#SERVICE 4097:0:1:3002:0:0:0:0:0:0:https%3a//tvradiozap.eu/1501:Brut
+#SERVICE 4097:0:1:1340:0:0:0:0:0:0:https%3a//tvradiozap.eu/670:Canal+ (plages en clair)
+#SERVICE 4097:0:1:1336:0:0:0:0:0:0:https%3a//tvradiozap.eu/668:CGTN Français  (CN)
+#SERVICE 4097:0:1:1918:0:0:0:0:0:0:https%3a//tvradiozap.eu/959:ETV
+#SERVICE 4097:0:1:1812:0:0:0:0:0:0:https%3a//tvradiozap.eu/906:RTL TVI
+#SERVICE 4097:0:1:2762:0:0:0:0:0:0:https%3a//tvradiozap.eu/1381:TV5Monde Asie
+#SERVICE 4097:0:1:1330:0:0:0:0:0:0:https%3a//tvradiozap.eu/665:TV5Monde FBS
+#SERVICE 1:64:111:0:0:0:0:0:0:0:
+#DESCRIPTION ++Info++
+#SERVICE 4097:0:1:2220:0:0:0:0:0:0:https%3a//tvradiozap.eu/1110:BFM2
+#SERVICE 4097:0:1:1342:0:0:0:0:0:0:https%3a//tvradiozap.eu/671:France 24
+#SERVICE 4097:0:1:1742:0:0:0:0:0:0:https%3a//tvradiozap.eu/871:I24NEWS
+#SERVICE 4097:0:1:1350:0:0:0:0:0:0:https%3a//tvradiozap.eu/675:Ici RDI  (CA)
+#SERVICE 4097:0:1:1352:0:0:0:0:0:0:https%3a//tvradiozap.eu/676:Monaco Info  (MC)
+#SERVICE 4097:0:1:1738:0:0:0:0:0:0:https%3a//tvradiozap.eu/869:RMC Talk Info
+#SERVICE 4097:0:1:2088:0:0:0:0:0:0:https%3a//tvradiozap.eu/1044:RTS Info
+#SERVICE 4097:0:1:1346:0:0:0:0:0:0:https%3a//tvradiozap.eu/673:TV5Monde Info
+#SERVICE 1:64:112:0:0:0:0:0:0:0:
+#DESCRIPTION ++Jeunesse++
+#SERVICE 4097:0:1:2768:0:0:0:0:0:0:https%3a//tvradiozap.eu/1384:100% Kidz
+#SERVICE 4097:0:1:1956:0:0:0:0:0:0:https%3a//tvradiozap.eu/978:ADN
+#SERVICE 4097:0:1:1810:0:0:0:0:0:0:https%3a//tvradiozap.eu/905:Caillou
+#SERVICE 4097:0:1:2118:0:0:0:0:0:0:https%3a//tvradiozap.eu/1059:Fitini TV
+#SERVICE 4097:0:1:2126:0:0:0:0:0:0:https%3a//tvradiozap.eu/1063:Japanim TV (BE)
+#SERVICE 4097:0:1:2770:0:0:0:0:0:0:https%3a//tvradiozap.eu/1385:Les Schtroumpfs
+#SERVICE 4097:0:1:1604:0:0:0:0:0:0:https%3a//tvradiozap.eu/802:Plu.TV Retro Toons
+#SERVICE 4097:0:1:2110:0:0:0:0:0:0:https%3a//tvradiozap.eu/1055:Rakuten TV Famille
+#SERVICE 4097:0:1:2436:0:0:0:0:0:0:https%3a//tvradiozap.eu/1218:Supertoons
+#SERVICE 4097:0:1:2842:0:0:0:0:0:0:https%3a//tvradiozap.eu/1421:Télé-Québec Jeunesse (CA)
+#SERVICE 4097:0:1:1700:0:0:0:0:0:0:https%3a//tvradiozap.eu/850:Yu-Gi-Oh!
+#SERVICE 1:64:113:0:0:0:0:0:0:0:
+#DESCRIPTION ++Jeux++
+#SERVICE 4097:0:1:2648:0:0:0:0:0:0:https%3a//tvradiozap.eu/1324:iXPé (BE)
+#SERVICE 4097:0:1:2650:0:0:0:0:0:0:https%3a//tvradiozap.eu/1325:MGG Esport
+#SERVICE 1:64:114:0:0:0:0:0:0:0:
+#DESCRIPTION ++Local++
+#SERVICE 4097:0:1:1698:0:0:0:0:0:0:https%3a//tvradiozap.eu/849:Alpe d'Huez
+#SERVICE 4097:0:1:1952:0:0:0:0:0:0:https%3a//tvradiozap.eu/976:Angers Télé
+#SERVICE 4097:0:1:674:0:0:0:0:0:0:https%3a//tvradiozap.eu/337:ASTV
+#SERVICE 4097:0:1:2152:0:0:0:0:0:0:https%3a//tvradiozap.eu/1076:Bordo TV
+#SERVICE 4097:0:1:2250:0:0:0:0:0:0:https%3a//tvradiozap.eu/1125:Brionnais TV
+#SERVICE 4097:0:1:2304:0:0:0:0:0:0:https%3a//tvradiozap.eu/1152:Cannes Lerins TV
+#SERVICE 4097:0:1:2348:0:0:0:0:0:0:https%3a//tvradiozap.eu/1174:Csur  (CA)
+#SERVICE 4097:0:1:2158:0:0:0:0:0:0:https%3a//tvradiozap.eu/1079:DCM TV (91)
+#SERVICE 4097:0:1:1374:0:0:0:0:0:0:https%3a//tvradiozap.eu/687:ILTV  (Hénin-Carvin)
+#SERVICE 4097:0:1:1768:0:0:0:0:0:0:https%3a//tvradiozap.eu/884:Lyon capitale tv
+#SERVICE 4097:0:1:2966:0:0:0:0:0:0:https%3a//tvradiozap.eu/1483:NA TV (33)
+#SERVICE 4097:0:1:1766:0:0:0:0:0:0:https%3a//tvradiozap.eu/883:PTV (52+55)
+#SERVICE 4097:0:1:2338:0:0:0:0:0:0:https%3a//tvradiozap.eu/1169:RadioTV Basse-Terre
+#SERVICE 4097:0:1:1814:0:0:0:0:0:0:https%3a//tvradiozap.eu/907:TV3V (67)
+#SERVICE 4097:0:1:1380:0:0:0:0:0:0:https%3a//tvradiozap.eu/690:TV7 Colmar
+#SERVICE 4097:0:1:2354:0:0:0:0:0:0:https%3a//tvradiozap.eu/1177:TVCBF  (CA)
+#SERVICE 1:64:115:0:0:0:0:0:0:0:
+#DESCRIPTION ++Musique++
+#SERVICE 4097:0:1:2864:0:0:0:0:0:0:https%3a//tvradiozap.eu/1432:Alive My TV
+#SERVICE 4097:0:1:1692:0:0:0:0:0:0:https%3a//tvradiozap.eu/846:Classica (Stingray)
+#SERVICE 4097:0:1:1752:0:0:0:0:0:0:https%3a//tvradiozap.eu/876:Clubbing TV
+#SERVICE 4097:0:1:2184:0:0:0:0:0:0:https%3a//tvradiozap.eu/1092:CR Concept Radio
+#SERVICE 4097:0:1:310:0:0:0:0:0:0:https%3a//tvradiozap.eu/155:Djazz (Stingray)
+#SERVICE 4097:0:1:1992:0:0:0:0:0:0:https%3a//tvradiozap.eu/996:Emotion
+#SERVICE 4097:0:1:2888:0:0:0:0:0:0:https%3a//tvradiozap.eu/1444:Energy TV Music (US)
+#SERVICE 4097:0:1:1354:0:0:0:0:0:0:https%3a//tvradiozap.eu/677:Génération TV
+#SERVICE 4097:0:1:2014:0:0:0:0:0:0:https%3a//tvradiozap.eu/1007:Guadeloupe 4TV
+#SERVICE 4097:0:1:2572:0:0:0:0:0:0:https%3a//tvradiozap.eu/1286:Identité Télé Caraïbes
+#SERVICE 4097:0:1:2590:0:0:0:0:0:0:https%3a//tvradiozap.eu/1295:K-Pop
+#SERVICE 4097:0:1:602:0:0:0:0:0:0:https%3a//tvradiozap.eu/301:Littoral FM TV
+#SERVICE 4097:0:1:2874:0:0:0:0:0:0:https%3a//tvradiozap.eu/1437:Madras FM TV
+#SERVICE 4097:0:1:2728:0:0:0:0:0:0:https%3a//tvradiozap.eu/1364:Metal.Rocks
+#SERVICE 4097:0:1:1888:0:0:0:0:0:0:https%3a//tvradiozap.eu/944:Movie Music (Stingray)
+#SERVICE 4097:0:1:2162:0:0:0:0:0:0:https%3a//tvradiozap.eu/1081:My TV Caraïbes
+#SERVICE 4097:0:1:2934:0:0:0:0:0:0:https%3a//tvradiozap.eu/1467:New K-Pop
+#SERVICE 4097:0:1:1684:0:0:0:0:0:0:https%3a//tvradiozap.eu/842:Now Rock
+#SERVICE 4097:0:1:2078:0:0:0:0:0:0:https%3a//tvradiozap.eu/1039:P2M TV
+#SERVICE 4097:0:1:1932:0:0:0:0:0:0:https%3a//tvradiozap.eu/966:Qello Concerts 1 (Stingray)
+#SERVICE 4097:0:1:1958:0:0:0:0:0:0:https%3a//tvradiozap.eu/979:Qello Concerts 2 (Stingray)
+#SERVICE 4097:0:1:2326:0:0:0:0:0:0:https%3a//tvradiozap.eu/1163:Que4 Radio (US)
+#SERVICE 4097:0:1:1356:0:0:0:0:0:0:https%3a//tvradiozap.eu/678:Qwest Jazz
+#SERVICE 4097:0:1:2076:0:0:0:0:0:0:https%3a//tvradiozap.eu/1038:RSDT TV
+#SERVICE 4097:0:1:2396:0:0:0:0:0:0:https%3a//tvradiozap.eu/1198:Skyrock TV
+#SERVICE 4097:0:1:2988:0:0:0:0:0:0:https%3a//tvradiozap.eu/1494:Stryk TV (US)
+#SERVICE 4097:0:1:2492:0:0:0:0:0:0:https%3a//tvradiozap.eu/1246:That's 70s (UK)
+#SERVICE 4097:0:1:1986:0:0:0:0:0:0:https%3a//tvradiozap.eu/993:That's 80s (UK)
+#SERVICE 4097:0:1:2164:0:0:0:0:0:0:https%3a//tvradiozap.eu/1082:TMA
+#SERVICE 4097:0:1:2488:0:0:0:0:0:0:https%3a//tvradiozap.eu/1244:Trace Brasil
+#SERVICE 4097:0:1:2044:0:0:0:0:0:0:https%3a//tvradiozap.eu/1022:Trace Latina
+#SERVICE 4097:0:1:2522:0:0:0:0:0:0:https%3a//tvradiozap.eu/1261:Trace UK
+#SERVICE 4097:0:1:1878:0:0:0:0:0:0:https%3a//tvradiozap.eu/939:Trace Urban
+#SERVICE 4097:0:1:626:0:0:0:0:0:0:https%3a//tvradiozap.eu/313:TVM3 (CH)
+#SERVICE 4097:0:1:2230:0:0:0:0:0:0:https%3a//tvradiozap.eu/1115:Vevo 70 & 80's (UK)
+#SERVICE 4097:0:1:1802:0:0:0:0:0:0:https%3a//tvradiozap.eu/901:Vevo 90 & 00's
+#SERVICE 4097:0:1:2340:0:0:0:0:0:0:https%3a//tvradiozap.eu/1170:Vevo Hip-Hop & RnB
+#SERVICE 4097:0:1:1726:0:0:0:0:0:0:https%3a//tvradiozap.eu/863:Vevo Pop
+#SERVICE 4097:0:1:1710:0:0:0:0:0:0:https%3a//tvradiozap.eu/855:Vevo Retro Rock
+#SERVICE 4097:0:1:2942:0:0:0:0:0:0:https%3a//tvradiozap.eu/1471:XITE 80s Flashback (US)
+#SERVICE 4097:0:1:2944:0:0:0:0:0:0:https%3a//tvradiozap.eu/1472:XITE 90s Throwback (US)
+#SERVICE 4097:0:1:2932:0:0:0:0:0:0:https%3a//tvradiozap.eu/1466:Xite Just Chill (US)
+#SERVICE 4097:0:1:2930:0:0:0:0:0:0:https%3a//tvradiozap.eu/1465:Xite Nuevo Latino (US)
+#SERVICE 4097:0:1:2926:0:0:0:0:0:0:https%3a//tvradiozap.eu/1463:Xite Rock X Metal (US)
+#SERVICE 4097:0:1:2208:0:0:0:0:0:0:https%3a//tvradiozap.eu/1104:Zoukla
+#SERVICE 1:64:116:0:0:0:0:0:0:0:
+#DESCRIPTION ++Nature++
+#SERVICE 4097:0:1:2290:0:0:0:0:0:0:https%3a//tvradiozap.eu/1145:BBC Earth (GB)
+#SERVICE 4097:0:1:1926:0:0:0:0:0:0:https%3a//tvradiozap.eu/963:Cap Terre
+#SERVICE 4097:0:1:1820:0:0:0:0:0:0:https%3a//tvradiozap.eu/910:Destination Nature
+#SERVICE 4097:0:1:1408:0:0:0:0:0:0:https%3a//tvradiozap.eu/704:Nature time
+#SERVICE 4097:0:1:1666:0:0:0:0:0:0:https%3a//tvradiozap.eu/833:Plu.TV Animaux
+#SERVICE 1:64:117:0:0:0:0:0:0:0:
+#DESCRIPTION ++Régional++
+#SERVICE 4097:0:1:1362:0:0:0:0:0:0:https%3a//tvradiozap.eu/681:20 Minutes TV  (IdF)
+#SERVICE 4097:0:1:1770:0:0:0:0:0:0:https%3a//tvradiozap.eu/885:8 Mont-Blanc
+#SERVICE 4097:0:1:1966:0:0:0:0:0:0:https%3a//tvradiozap.eu/983:ACTV (Charleroi BE)
+#SERVICE 4097:0:1:1466:0:0:0:0:0:0:https%3a//tvradiozap.eu/733:Antenne Réunion
+#SERVICE 4097:0:1:2336:0:0:0:0:0:0:https%3a//tvradiozap.eu/1168:Atv+
+#SERVICE 4097:0:1:1464:0:0:0:0:0:0:https%3a//tvradiozap.eu/732:BFM Alpes
+#SERVICE 4097:0:1:1460:0:0:0:0:0:0:https%3a//tvradiozap.eu/730:BFM Alsace
+#SERVICE 4097:0:1:1942:0:0:0:0:0:0:https%3a//tvradiozap.eu/971:BFM Haute-Provence
+#SERVICE 4097:0:1:696:0:0:0:0:0:0:https%3a//tvradiozap.eu/348:BFM Lille
+#SERVICE 4097:0:1:1272:0:0:0:0:0:0:https%3a//tvradiozap.eu/636:BFM Littoral
+#SERVICE 4097:0:1:1452:0:0:0:0:0:0:https%3a//tvradiozap.eu/726:BFM Lyon
+#SERVICE 4097:0:1:1462:0:0:0:0:0:0:https%3a//tvradiozap.eu/731:BFM Marseille Provence
+#SERVICE 4097:0:1:624:0:0:0:0:0:0:https%3a//tvradiozap.eu/312:BFM Nice Côte d'Azur
+#SERVICE 4097:0:1:1458:0:0:0:0:0:0:https%3a//tvradiozap.eu/729:BFM Normandie
+#SERVICE 4097:0:1:1278:0:0:0:0:0:0:https%3a//tvradiozap.eu/639:BFM Toulon Var
+#SERVICE 4097:0:1:1344:0:0:0:0:0:0:https%3a//tvradiozap.eu/672:BIP TV (Berry)
+#SERVICE 4097:0:1:1934:0:0:0:0:0:0:https%3a//tvradiozap.eu/967:Boukè (Namur BE)
+#SERVICE 4097:0:1:566:0:0:0:0:0:0:https%3a//tvradiozap.eu/283:BX1 (Bruxelles BE)
+#SERVICE 4097:0:1:1294:0:0:0:0:0:0:https%3a//tvradiozap.eu/647:Canal 32 (Troyes)
+#SERVICE 4097:0:1:1694:0:0:0:0:0:0:https%3a//tvradiozap.eu/847:Canal Alpha Jura (CH)
+#SERVICE 4097:0:1:1696:0:0:0:0:0:0:https%3a//tvradiozap.eu/848:Canal Alpha Neuchatel (CH)
+#SERVICE 4097:0:1:1962:0:0:0:0:0:0:https%3a//tvradiozap.eu/981:Canal Zoom (Gembloux BE)
+#SERVICE 4097:0:1:2686:0:0:0:0:0:0:https%3a//tvradiozap.eu/1343:France 3 Alpes
+#SERVICE 4097:0:1:1830:0:0:0:0:0:0:https%3a//tvradiozap.eu/915:France 3 Alsace
+#SERVICE 4097:0:1:1826:0:0:0:0:0:0:https%3a//tvradiozap.eu/913:France 3 Aquitaine
+#SERVICE 4097:0:1:1828:0:0:0:0:0:0:https%3a//tvradiozap.eu/914:France 3 Auvergne
+#SERVICE 4097:0:1:2682:0:0:0:0:0:0:https%3a//tvradiozap.eu/1341:France 3 Basse-Normandie
+#SERVICE 4097:0:1:1834:0:0:0:0:0:0:https%3a//tvradiozap.eu/917:France 3 Bourgogne
+#SERVICE 4097:0:1:1836:0:0:0:0:0:0:https%3a//tvradiozap.eu/918:France 3 Bretagne
+#SERVICE 4097:0:1:1838:0:0:0:0:0:0:https%3a//tvradiozap.eu/919:France 3 Centre-Val de Loire
+#SERVICE 4097:0:1:2694:0:0:0:0:0:0:https%3a//tvradiozap.eu/1347:France 3 Champagne
+#SERVICE 4097:0:1:2702:0:0:0:0:0:0:https%3a//tvradiozap.eu/1351:France 3 Côte d'Azur
+#SERVICE 4097:0:1:2690:0:0:0:0:0:0:https%3a//tvradiozap.eu/1345:France 3 Franche-Comté
+#SERVICE 4097:0:1:1832:0:0:0:0:0:0:https%3a//tvradiozap.eu/916:France 3 Haute-Normandie
+#SERVICE 4097:0:1:2684:0:0:0:0:0:0:https%3a//tvradiozap.eu/1342:France 3 Languedoc-Roussillon
+#SERVICE 4097:0:1:2698:0:0:0:0:0:0:https%3a//tvradiozap.eu/1349:France 3 Limousin
+#SERVICE 4097:0:1:2692:0:0:0:0:0:0:https%3a//tvradiozap.eu/1346:France 3 Lorraine
+#SERVICE 4097:0:1:1844:0:0:0:0:0:0:https%3a//tvradiozap.eu/922:France 3 Midi-Pyrénées
+#SERVICE 4097:0:1:1848:0:0:0:0:0:0:https%3a//tvradiozap.eu/924:France 3 Nord-Pas-de-Calais
+#SERVICE 4097:0:1:1850:0:0:0:0:0:0:https%3a//tvradiozap.eu/925:France 3 Paris Île-de-France
+#SERVICE 4097:0:1:1852:0:0:0:0:0:0:https%3a//tvradiozap.eu/926:France 3 Pays de Loire
+#SERVICE 4097:0:1:2696:0:0:0:0:0:0:https%3a//tvradiozap.eu/1348:France 3 Picardie
+#SERVICE 4097:0:1:2700:0:0:0:0:0:0:https%3a//tvradiozap.eu/1350:France 3 Poitou-Charentes
+#SERVICE 4097:0:1:1842:0:0:0:0:0:0:https%3a//tvradiozap.eu/921:France 3 Provence Alpes
+#SERVICE 4097:0:1:2688:0:0:0:0:0:0:https%3a//tvradiozap.eu/1344:France 3 Rhone-Alpes
+#SERVICE 4097:0:1:1398:0:0:0:0:0:0:https%3a//tvradiozap.eu/699:La Télé  (Fribourg CH)
+#SERVICE 4097:0:1:1368:0:0:0:0:0:0:https%3a//tvradiozap.eu/684:Matélé (Aisnes)
+#SERVICE 4097:0:1:1392:0:0:0:0:0:0:https%3a//tvradiozap.eu/696:Matélé (Dinant BE)
+#SERVICE 4097:0:1:1372:0:0:0:0:0:0:https%3a//tvradiozap.eu/686:Moselle TV
+#SERVICE 4097:0:1:1846:0:0:0:0:0:0:https%3a//tvradiozap.eu/923:NOA (Nouvelle Aquitaine)
+#SERVICE 4097:0:1:1394:0:0:0:0:0:0:https%3a//tvradiozap.eu/697:Notélé  (Wallonie picarde BE)
+#SERVICE 4097:0:1:2620:0:0:0:0:0:0:https%3a//tvradiozap.eu/1310:Outre-Mer la 1ère
+#SERVICE 4097:0:1:1964:0:0:0:0:0:0:https%3a//tvradiozap.eu/982:Qu4tre Liège (BE)
+#SERVICE 4097:0:1:1318:0:0:0:0:0:0:https%3a//tvradiozap.eu/659:Tébéo (Bretagne)
+#SERVICE 4097:0:1:1386:0:0:0:0:0:0:https%3a//tvradiozap.eu/693:Télé MB  (Mons BE)
+#SERVICE 4097:0:1:2016:0:0:0:0:0:0:https%3a//tvradiozap.eu/1008:Télé PEYI
+#SERVICE 4097:0:1:1718:0:0:0:0:0:0:https%3a//tvradiozap.eu/859:TéléNantes
+#SERVICE 4097:0:1:1778:0:0:0:0:0:0:https%3a//tvradiozap.eu/889:TelePaese (Corse)
+#SERVICE 4097:0:1:1384:0:0:0:0:0:0:https%3a//tvradiozap.eu/692:Telesambre  (Charleroi BE)
+#SERVICE 4097:0:1:1670:0:0:0:0:0:0:https%3a//tvradiozap.eu/835:TLC (Cholet)
+#SERVICE 4097:0:1:1804:0:0:0:0:0:0:https%3a//tvradiozap.eu/902:TNTV Tahiti TV
+#SERVICE 4097:0:1:1396:0:0:0:0:0:0:https%3a//tvradiozap.eu/698:TV Lux  (Luxembourg BE)
+#SERVICE 4097:0:1:1376:0:0:0:0:0:0:https%3a//tvradiozap.eu/688:TV78  (Yvelines)
+#SERVICE 4097:0:1:1388:0:0:0:0:0:0:https%3a//tvradiozap.eu/694:TVCom  (Brabant wallon BE)
+#SERVICE 4097:0:1:1366:0:0:0:0:0:0:https%3a//tvradiozap.eu/683:TVR  (Rennes)
+#SERVICE 4097:0:1:2844:0:0:0:0:0:0:https%3a//tvradiozap.eu/1422:TVRS  (CA)
+#SERVICE 4097:0:1:1674:0:0:0:0:0:0:https%3a//tvradiozap.eu/837:VDL (Val de Loire)
+#SERVICE 4097:0:1:1390:0:0:0:0:0:0:https%3a//tvradiozap.eu/695:Vedia (Verviers BE)
+#SERVICE 4097:0:1:1840:0:0:0:0:0:0:https%3a//tvradiozap.eu/920:Via Stella
+#SERVICE 4097:0:1:1370:0:0:0:0:0:0:https%3a//tvradiozap.eu/685:Vosges TV
+#SERVICE 1:64:118:0:0:0:0:0:0:0:
+#DESCRIPTION ++Reportages++
+#SERVICE 4097:0:1:1082:0:0:0:0:0:0:https%3a//tvradiozap.eu/541:Enquêtes de Choc
+#SERVICE 4097:0:1:2046:0:0:0:0:0:0:https%3a//tvradiozap.eu/1023:Homicide
+#SERVICE 4097:0:1:162:0:0:0:0:0:0:https%3a//tvradiozap.eu/81:Immersion Crime & Justice
+#SERVICE 4097:0:1:2586:0:0:0:0:0:0:https%3a//tvradiozap.eu/1293:Into Crime
+#SERVICE 4097:0:1:524:0:0:0:0:0:0:https%3a//tvradiozap.eu/262:Love Crime & History
+#SERVICE 4097:0:1:2344:0:0:0:0:0:0:https%3a//tvradiozap.eu/1172:Real Life
+#SERVICE 4097:0:1:2036:0:0:0:0:0:0:https%3a//tvradiozap.eu/1018:RMC Alerte Secours
+#SERVICE 1:64:119:0:0:0:0:0:0:0:
+#DESCRIPTION ++Sciences++
+#SERVICE 4097:0:1:1314:0:0:0:0:0:0:https%3a//tvradiozap.eu/657:C'est pas Sorcier
+#SERVICE 4097:0:1:1970:0:0:0:0:0:0:https%3a//tvradiozap.eu/985:Epicurieux
+#SERVICE 4097:0:1:1676:0:0:0:0:0:0:https%3a//tvradiozap.eu/838:Futura 1
+#SERVICE 4097:0:1:2294:0:0:0:0:0:0:https%3a//tvradiozap.eu/1147:Futura 2
+#SERVICE 4097:0:1:1430:0:0:0:0:0:0:https%3a//tvradiozap.eu/715:L'Esprit Sorcier
+#SERVICE 4097:0:1:2482:0:0:0:0:0:0:https%3a//tvradiozap.eu/1241:Science & Vie 1
+#SERVICE 4097:0:1:2020:0:0:0:0:0:0:https%3a//tvradiozap.eu/1010:Science & Vie 2
+#SERVICE 4097:0:1:1756:0:0:0:0:0:0:https%3a//tvradiozap.eu/878:Tech&Co
+#SERVICE 1:64:120:0:0:0:0:0:0:0:
+#DESCRIPTION ++Séries-Films++
+#SERVICE 4097:0:1:1688:0:0:0:0:0:0:https%3a//tvradiozap.eu/844:BBC Séries
+#SERVICE 4097:0:1:936:0:0:0:0:0:0:https%3a//tvradiozap.eu/468:Canal 4
+#SERVICE 4097:0:1:2480:0:0:0:0:0:0:https%3a//tvradiozap.eu/1240:FilmRise Binge Watch
+#SERVICE 4097:0:1:1316:0:0:0:0:0:0:https%3a//tvradiozap.eu/658:FilmRise Séries
+#SERVICE 4097:0:1:1912:0:0:0:0:0:0:https%3a//tvradiozap.eu/956:France TV Séries
+#SERVICE 4097:0:1:2298:0:0:0:0:0:0:https%3a//tvradiozap.eu/1149:Fréquence Novelas
+#SERVICE 4097:0:1:2452:0:0:0:0:0:0:https%3a//tvradiozap.eu/1226:LG 1:Spotlight
+#SERVICE 4097:0:1:2652:0:0:0:0:0:0:https%3a//tvradiozap.eu/1326:Passion Bollywood
+#SERVICE 4097:0:1:2234:0:0:0:0:0:0:https%3a//tvradiozap.eu/1117:Passion Novelas
+#SERVICE 4097:0:1:1678:0:0:0:0:0:0:https%3a//tvradiozap.eu/839:Rakuten TV Crime
+#SERVICE 4097:0:1:1972:0:0:0:0:0:0:https%3a//tvradiozap.eu/986:Run:Time Film et Séries
+#SERVICE 4097:0:1:2474:0:0:0:0:0:0:https%3a//tvradiozap.eu/1237:Sony One Blacklist
+#SERVICE 4097:0:1:2476:0:0:0:0:0:0:https%3a//tvradiozap.eu/1238:Sony One Favoris
+#SERVICE 4097:0:1:2472:0:0:0:0:0:0:https%3a//tvradiozap.eu/1236:Sony One Séries Comédie
+#SERVICE 4097:0:1:2470:0:0:0:0:0:0:https%3a//tvradiozap.eu/1235:Sony One Séries Thriller
+#SERVICE 4097:0:1:2494:0:0:0:0:0:0:https%3a//tvradiozap.eu/1247:Tele Novela
+#SERVICE 4097:0:1:2346:0:0:0:0:0:0:https%3a//tvradiozap.eu/1173:Televisa Telenovela
+#SERVICE 4097:0:1:2056:0:0:0:0:0:0:https%3a//tvradiozap.eu/1028:Top Sci-Fi
+#SERVICE 4097:0:1:2498:0:0:0:0:0:0:https%3a//tvradiozap.eu/1249:Zee One
+#SERVICE 1:64:121:0:0:0:0:0:0:0:
+#DESCRIPTION ++Sociétal++
+#SERVICE 4097:0:1:1882:0:0:0:0:0:0:https%3a//tvradiozap.eu/941:BAM (BE)
+#SERVICE 4097:0:1:2360:0:0:0:0:0:0:https%3a//tvradiozap.eu/1180:CPAC (CA)
+#SERVICE 4097:0:1:2018:0:0:0:0:0:0:https%3a//tvradiozap.eu/1009:Fusion TV
+#SERVICE 4097:0:1:1816:0:0:0:0:0:0:https%3a//tvradiozap.eu/908:Handicap TV
+#SERVICE 4097:0:1:1896:0:0:0:0:0:0:https%3a//tvradiozap.eu/948:Le Canal de l'Assemblée (CA)
+#SERVICE 4097:0:1:1872:0:0:0:0:0:0:https%3a//tvradiozap.eu/936:Le Média
+#SERVICE 4097:0:1:2382:0:0:0:0:0:0:https%3a//tvradiozap.eu/1191:ONTPARL (CA)
+#SERVICE 1:64:122:0:0:0:0:0:0:0:
+#DESCRIPTION ++Sport++
+#SERVICE 4097:0:1:2520:0:0:0:0:0:0:https%3a//tvradiozap.eu/1260:After Foot TV
+#SERVICE 4097:0:1:2154:0:0:0:0:0:0:https%3a//tvradiozap.eu/1077:Bordo TV Sport
+#SERVICE 4097:0:1:1822:0:0:0:0:0:0:https%3a//tvradiozap.eu/911:Equidia
+#SERVICE 4097:0:1:2026:0:0:0:0:0:0:https%3a//tvradiozap.eu/1013:Equidia R1
+#SERVICE 4097:0:1:1980:0:0:0:0:0:0:https%3a//tvradiozap.eu/990:Equidia Racing Galop
+#SERVICE 4097:0:1:2040:0:0:0:0:0:0:https%3a//tvradiozap.eu/1020:Equidia Racing Mag
+#SERVICE 4097:0:1:2042:0:0:0:0:0:0:https%3a//tvradiozap.eu/1021:Equidia Racing Trot
+#SERVICE 4097:0:1:2824:0:0:0:0:0:0:https%3a//tvradiozap.eu/1412:France TV Sport
+#SERVICE 4097:0:1:1946:0:0:0:0:0:0:https%3a//tvradiozap.eu/973:Journal du Golf
+#SERVICE 4097:0:1:2870:0:0:0:0:0:0:https%3a//tvradiozap.eu/1435:L'Équipe Live 3
+#SERVICE 4097:0:1:1706:0:0:0:0:0:0:https%3a//tvradiozap.eu/853:L'Équipe Live 4
+#SERVICE 4097:0:1:1702:0:0:0:0:0:0:https%3a//tvradiozap.eu/851:Motor Racing
+#SERVICE 4097:0:1:2490:0:0:0:0:0:0:https%3a//tvradiozap.eu/1245:Pancrace TV
+#SERVICE 4097:0:1:1406:0:0:0:0:0:0:https%3a//tvradiozap.eu/703:Sport en France
+#SERVICE 4097:0:1:2468:0:0:0:0:0:0:https%3a//tvradiozap.eu/1234:Tennis Channel
+#SERVICE 4097:0:1:2822:0:0:0:0:0:0:https%3a//tvradiozap.eu/1411:Trace Sport
+#SERVICE 1:64:123:0:0:0:0:0:0:0:
+#DESCRIPTION ++Voyage++
+#SERVICE 4097:0:1:182:0:0:0:0:0:0:https%3a//tvradiozap.eu/91:Arte Invitation au Voyage
+#SERVICE 4097:0:1:1410:0:0:0:0:0:0:https%3a//tvradiozap.eu/705:Echappées belles
+#SERVICE 4097:0:1:2622:0:0:0:0:0:0:https%3a//tvradiozap.eu/1311:Echos du monde
+#SERVICE 4097:0:1:1306:0:0:0:0:0:0:https%3a//tvradiozap.eu/653:Incroyables fortunes
+#SERVICE 4097:0:1:984:0:0:0:0:0:0:https%3a//tvradiozap.eu/492:RMC J'irai dormir chez vous
+#SERVICE 4097:0:1:1056:0:0:0:0:0:0:https%3a//tvradiozap.eu/528:Travelxp
+#SERVICE 4097:0:1:834:0:0:0:0:0:0:https%3a//tvradiozap.eu/417:TV5Monde+ Voyage
+#SERVICE 4097:0:1:2090:0:0:0:0:0:0:https%3a//tvradiozap.eu/1045:Voyages et Saveurs
+#SERVICE 4097:0:1:1978:0:0:0:0:0:0:https%3a//tvradiozap.eu/989:Voyages+

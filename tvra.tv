@@ -1,0 +1,31 @@
+#NAME tvra
+#SERVICE 1:64:101:0:0:0:0:0:0:0:
+#DESCRIPTION ++France++
+#SERVICE 4097:0:1:378:0:0:0:0:0:0:https%3a//tvradiozap.eu/189.2:Europe 1
+#SERVICE 4097:0:1:498:0:0:0:0:0:0:https%3a//tvradiozap.eu/249.2:France Info
+#SERVICE 4097:0:1:500:0:0:0:0:0:0:https%3a//tvradiozap.eu/250.2:France Inter
+#SERVICE 4097:0:1:526:0:0:0:0:0:0:https%3a//tvradiozap.eu/263.2:Fun Radio
+#SERVICE 4097:0:1:594:0:0:0:0:0:0:https%3a//tvradiozap.eu/297.2:Mouv'
+#SERVICE 4097:0:1:1412:0:0:0:0:0:0:https%3a//tvradiozap.eu/706.2:RTL
+#SERVICE 4097:0:1:1422:0:0:0:0:0:0:https%3a//tvradiozap.eu/711.2:RTL2
+#SERVICE 4097:0:1:1030:0:0:0:0:0:0:https%3a//tvradiozap.eu/515.2:Sud Radio
+#SERVICE 4097:0:1:2852:0:0:0:0:0:0:https%3a//tvradiozap.eu/1426.2:Top 80
+#SERVICE 1:64:102:0:0:0:0:0:0:0:
+#DESCRIPTION ++France Guadeloupe++
+#SERVICE 4097:0:1:2390:0:0:0:0:0:0:https%3a//tvradiozap.eu/1195.2:RHT
+#SERVICE 1:64:103:0:0:0:0:0:0:0:
+#DESCRIPTION ++Belgique++
+#SERVICE 4097:0:1:2278:0:0:0:0:0:0:https%3a//tvradiozap.eu/1139.2:AraBel FM
+#SERVICE 4097:0:1:1160:0:0:0:0:0:0:https%3a//tvradiozap.eu/580.2:Bel RTL
+#SERVICE 4097:0:1:1308:0:0:0:0:0:0:https%3a//tvradiozap.eu/654.2:Extremix
+#SERVICE 4097:0:1:12:0:0:0:0:0:0:https%3a//tvradiozap.eu/6.2:Fun Radio Belgique
+#SERVICE 4097:0:1:42:0:0:0:0:0:0:https%3a//tvradiozap.eu/21.2:La 1ère (RTBF)
+#SERVICE 4097:0:1:24:0:0:0:0:0:0:https%3a//tvradiozap.eu/12.2:NRJ Belgique
+#SERVICE 4097:0:1:30:0:0:0:0:0:0:https%3a//tvradiozap.eu/15.2:Radio Contact
+#SERVICE 1:64:104:0:0:0:0:0:0:0:
+#DESCRIPTION ++Suisse++
+#SERVICE 4097:0:1:1252:0:0:0:0:0:0:https%3a//tvradiozap.eu/626.2:RTN
+#SERVICE 4097:0:1:1244:0:0:0:0:0:0:https%3a//tvradiozap.eu/622.2:RTS Couleur3
+#SERVICE 1:64:105:0:0:0:0:0:0:0:
+#DESCRIPTION ++Canada++
+#SERVICE 4097:0:1:164:0:0:0:0:0:0:https%3a//tvradiozap.eu/82.2:CNV
